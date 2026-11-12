@@ -1,4 +1,4 @@
-name: Auto build nginx:alpine with custom changes
+name: Auto build nginx:latest with custom changes
 
 on:
   workflow_dispatch:
